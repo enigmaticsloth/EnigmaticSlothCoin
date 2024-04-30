@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+
+# Local Truffle build artifacts
+build/
+
+# Env files
+.env
+.secret
+
